@@ -1,0 +1,7 @@
+D:\Draw with C#\lettel G\lettel G\bin\Debug\lettel G.exe.config
+D:\Draw with C#\lettel G\lettel G\bin\Debug\lettel G.exe
+D:\Draw with C#\lettel G\lettel G\bin\Debug\lettel G.pdb
+D:\Draw with C#\lettel G\lettel G\obj\Debug\lettel G.csprojAssemblyReference.cache
+D:\Draw with C#\lettel G\lettel G\obj\Debug\lettel G.csproj.CoreCompileInputs.cache
+D:\Draw with C#\lettel G\lettel G\obj\Debug\lettel G.exe
+D:\Draw with C#\lettel G\lettel G\obj\Debug\lettel G.pdb
